@@ -21,16 +21,16 @@ message
 #the type of variable x is integer
 x <- 2L
 typeof(x)
-#the type of variable x is double
+#the type of variable y is double
 y <- 2.5
 typeof(y)
-#the type of variable x is character
+#the type of variable a is character
 a <- "h"
 typeof(a)
-#the type of variable x is complex
+#the type of variable z is complex
 z <- 2+3i
 typeof(z)
-#the type of variable x is logical
+#the type of variable p, q is logical
 q <- T
 typeof(q)
 p <- FALSE
